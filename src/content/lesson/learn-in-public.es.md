@@ -9,7 +9,7 @@ description: >-
   Comparte tu camino y conéctate con otros desde hoy.
 ---
 
-Si estás estudiando en 4Geeks—ya sea Full Stack, Ciberseguridad, Vibe Coding, IA u otro programa—deberías considerar **aprender en público**. No es solo una teoría, es una estrategia comprobada para aprender más rápido y hacer crecer tu carrera.
+Si estás estudiando en 4Geeks, ya sea Full Stack, Ciberseguridad, Vibe Coding, IA u otro programa—deberías considerar **aprender en público**. No es solo una teoría, es una estrategia comprobada para aprender más rápido y hacer crecer tu carrera.
 
 En este artículo te explicamos por qué funciona y cómo empezar.
 
@@ -19,11 +19,11 @@ En este artículo te explicamos por qué funciona y cómo empezar.
 
 **Aprender en público** es compartir tu progreso de forma abierta. Eso puede incluir:
 
-- Publicar en redes sociales
-- Escribir artículos o actualizaciones cortas
-- Compartir código y proyectos en GitHub
-- Crear videos, dibujos o memes sobre lo que estás aprendiendo
-- Comentar y participar en foros o comunidades
+- Publicar en redes sociales.
+- Escribir artículos o actualizaciones cortas.
+- Compartir código y proyectos en GitHub.
+- Crear videos, dibujos o memes sobre lo que estás aprendiendo.
+- Comentar y participar en foros o comunidades.
 
 ## ¿Por qué es tan importante?
 
@@ -33,7 +33,8 @@ En este artículo te explicamos por qué funciona y cómo empezar.
 - Te ayuda a combatir el síndrome del impostor, al ver que hay muchas personas pasando por lo mismo.
 - Plataformas como LinkedIn aumentan tu visibilidad cuando publicas con frecuencia.
 - Los reclutadores te van a notar—en 4Geeks lo hemos visto una y otra vez: quienes aprenden en público consiguen empleo mucho más rápido.
-- No te sentirás solo: en Twitter/X hay miles de personas compartiendo su proceso de aprendizaje todos los días, especialmente bajo hashtags como `#100DaysOfCode`, `#BuildInPublic` y `#LearnToCode`. Son comunidades activas, generosas y llenas de energía donde vas a encontrar apoyo real.
+- No te sentirás solo: en Twitter/X hay miles de personas compartiendo su proceso de aprendizaje todos los días, especialmente bajo hashtags como `#100DaysOfCode`, `#BuildInPublic` y `#LearnToCode`.
+  Son comunidades activas, generosas y llenas de energía donde vas a encontrar apoyo real.
 
 ## ¿Cómo empezar a aprender en público?
 
@@ -49,7 +50,7 @@ En este artículo te explicamos por qué funciona y cómo empezar.
   - `#PromptEngineering`
   - `#VibeCoding`
 - Sigue comunidades en Twitter/X donde ingenieros y estudiantes publican hilos técnicos profundos—sobre Redis, PostgreSQL, IA, arquitectura web y más.
-  - Algunos hilos sobre Redis son mejores que la documentación oficial—puedes seguir cuentas como @antirez (creador de Redis), @gliderlabs, o explorar los hashtags `#Redis` y `#DatabaseTips`.
+- Algunos hilos sobre Redis son mejores que la documentación oficial—puedes seguir cuentas como @antirez (creador de Redis), @gliderlabs, o explorar los hashtags `#Redis` y `#DatabaseTips`.
 - Crea un canal de YouTube o un blog. Comparte lo que vas aprendiendo cada semana: la gente valora mucho las historias auténticas.
 - Contribuye a proyectos open source: aunque solo corrijas un error de ortografía o mejores una documentación, ya estás aprendiendo y ganando visibilidad.
 - Asiste a eventos, conferencias o meetups. Conoce a otras personas del mundo tech, y verás cómo empiezan a aparecer oportunidades.
